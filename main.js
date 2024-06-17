@@ -1,12 +1,12 @@
-let TIME_LIMIT = 60; 
+let TIME_LIMIT = 90; 
   
 let quotes_array = [ 
-  "Push yourself, because no one else is going to do it for you.", 
-  "Failure is the condiment that gives success its flavor.", 
-  "Wake up with determination. Go to bed with satisfaction.", 
-  "It's going to be hard, but hard does not mean impossible.", 
-  "Learning never exhausts the mind.", 
-  "The only way to do great work is to love what you do."
+  "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma", 
+  "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.", 
+  "You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.", 
+  "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.", 
+  "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.", 
+  "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment"
 ]; 
   
 let timer_text = document.querySelector(".curr_time"); 
